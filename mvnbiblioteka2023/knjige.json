@@ -1,0 +1,30 @@
+[
+  {
+    "naslov": "Karamazov",
+    "isbn": 123,
+    "autori": [
+      {
+        "ime": "Milos",
+        "prezime": "Manojlovic"
+      },
+      {
+        "ime": "Milenko",
+        "prezime": "Milenkovic"
+      }
+    ]
+  },
+  {
+    "naslov": "Ana Karenjina",
+    "isbn": 234,
+    "autori": [
+      {
+        "ime": "Milos",
+        "prezime": "Manojlovic"
+      },
+      {
+        "ime": "Milenko",
+        "prezime": "Milenkovic"
+      }
+    ]
+  }
+]
